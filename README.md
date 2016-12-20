@@ -7,4 +7,4 @@ Making changes
 
 Making changes - remote
 
-Making changes - command
+Making changes2 from remote - command
